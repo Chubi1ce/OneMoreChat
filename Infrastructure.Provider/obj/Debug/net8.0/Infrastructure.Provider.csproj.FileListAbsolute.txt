@@ -1,0 +1,17 @@
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.csproj.AssemblyReference.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.AssemblyInfoInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.AssemblyInfo.cs
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\Infrastructure.Provider.deps.json
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\Infrastructure.Provider.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\Infrastructure.Provider.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\App.Contracts.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\App.Contracts.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastr.8114DBCC.Up2Date
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\refint\Infrastructure.Provider.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\Infrastructure.Provider.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\obj\Debug\net8.0\ref\Infrastructure.Provider.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\Domain.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Provider\bin\Debug\net8.0\Domain.pdb

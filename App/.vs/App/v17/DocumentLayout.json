@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC5A78B-7E98-4BEE-B51C-1BEB29D7A4DA}|..\\App.Contracts\\App.Contracts.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\app.contracts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43293C1-66A5-4A15-99B2-C517F276BE56}|App.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43293C1-66A5-4A15-99B2-C517F276BE56}|App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0434DA7-8DD6-426D-8644-0CCAA19CA54B}|..\\Core\\Core.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\core\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5DE4E2-8F8A-4028-B17D-59C58132D9C3}|..\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\infrastructure.persistence\\contexts\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0434DA7-8DD6-426D-8644-0CCAA19CA54B}|..\\Core\\Core.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\core\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C276A28-2D04-49B6-862D-823E8E4BB0BA}|..\\Infrastructure.Provider\\Infrastructure.Provider.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\infrastructure.provider\\messagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C276A28-2D04-49B6-862D-823E8E4BB0BA}|..\\Infrastructure.Provider\\Infrastructure.Provider.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\infrastructure.provider\\imessagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC5A78B-7E98-4BEE-B51C-1BEB29D7A4DA}|..\\App.Contracts\\App.Contracts.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\app.contracts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F3851D-85ED-4D87-A4A4-33FDD429EB21}|..\\Domain\\Domain.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\domain\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC5A78B-7E98-4BEE-B51C-1BEB29D7A4DA}|..\\App.Contracts\\App.Contracts.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network\\app.contracts\\extensions\\messageextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:50:52.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Core\\ChatClient.cs",
+              "RelativeDocumentMoniker": "..\\Core\\ChatClient.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Core\\ChatClient.cs",
+              "RelativeToolTip": "..\\Core\\ChatClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:43:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatContext.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Infrastructure.Persistence\\Contexts\\ChatContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure.Persistence\\Contexts\\ChatContext.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Infrastructure.Persistence\\Contexts\\ChatContext.cs",
+              "RelativeToolTip": "..\\Infrastructure.Persistence\\Contexts\\ChatContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:05:55.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Domain\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\UserEntity.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Domain\\UserEntity.cs",
+              "RelativeToolTip": "..\\Domain\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:41:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Core\\ChatServer.cs",
+              "RelativeDocumentMoniker": "..\\Core\\ChatServer.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Core\\ChatServer.cs",
+              "RelativeToolTip": "..\\Core\\ChatServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:50:30.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageSource.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Infrastructure.Provider\\IMessageSource.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure.Provider\\IMessageSource.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Infrastructure.Provider\\IMessageSource.cs",
+              "RelativeToolTip": "..\\Infrastructure.Provider\\IMessageSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:42:14.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageExtensions.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App.Contracts\\Extensions\\MessageExtensions.cs",
+              "RelativeDocumentMoniker": "..\\App.Contracts\\Extensions\\MessageExtensions.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App.Contracts\\Extensions\\MessageExtensions.cs",
+              "RelativeToolTip": "..\\App.Contracts\\Extensions\\MessageExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:17:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageSource.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Infrastructure.Provider\\MessageSource.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure.Provider\\MessageSource.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\Infrastructure.Provider\\MessageSource.cs",
+              "RelativeToolTip": "..\\Infrastructure.Provider\\MessageSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:02:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App.Contracts\\Message.cs",
+              "RelativeDocumentMoniker": "..\\App.Contracts\\Message.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App.Contracts\\Message.cs",
+              "RelativeToolTip": "..\\App.Contracts\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:40:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App.Contracts\\User.cs",
+              "RelativeDocumentMoniker": "..\\App.Contracts\\User.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork\\App.Contracts\\User.cs",
+              "RelativeToolTip": "..\\App.Contracts\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:55:20.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

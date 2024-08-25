@@ -1,0 +1,11 @@
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\bin\Debug\net8.0\Domain.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\bin\Debug\net8.0\Domain.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\Domain.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\Domain.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Domain\obj\Debug\net8.0\ref\Domain.dll

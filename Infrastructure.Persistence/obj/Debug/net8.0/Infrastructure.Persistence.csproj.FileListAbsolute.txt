@@ -1,0 +1,17 @@
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.deps.json
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.AssemblyInfo.cs
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\refint\Infrastructure.Persistence.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\ref\Infrastructure.Persistence.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\bin\Debug\net8.0\Infrastructure.Persistence.runtimeconfig.json
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\bin\Debug\net8.0\Domain.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\bin\Debug\net8.0\Domain.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.csproj.AssemblyReference.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastr.56C47081.Up2Date
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\Infrastructure.Persistence\obj\Debug\net8.0\Infrastructure.Persistence.genruntimeconfig.cache

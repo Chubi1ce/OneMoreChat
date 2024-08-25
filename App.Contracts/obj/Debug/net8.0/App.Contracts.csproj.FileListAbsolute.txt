@@ -1,0 +1,15 @@
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\bin\Debug\net8.0\App.Contracts.deps.json
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\bin\Debug\net8.0\App.Contracts.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\bin\Debug\net8.0\App.Contracts.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.AssemblyInfoInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.AssemblyInfo.cs
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\refint\App.Contracts.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\ref\App.Contracts.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\bin\Debug\net8.0\Domain.dll
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\bin\Debug\net8.0\Domain.pdb
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Contracts.csproj.AssemblyReference.cache
+D:\GeekBrains\1. Разработчик C#. Специалист\19. Разработка сетевого приложения на C# (семинары)\NetWork\App.Contracts\obj\Debug\net8.0\App.Cont.7E1BDBFE.Up2Date
